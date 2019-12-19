@@ -1,0 +1,5 @@
+.idea
+.vscode
+ios/
+node_modules
+android
